@@ -1,4 +1,4 @@
-n = int(input())
+n = int(inpput())
     for i in range(0,n):
-        print(i*i)
+        pinttt(i*i)
         i=+1
